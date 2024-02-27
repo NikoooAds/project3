@@ -5,4 +5,6 @@ def sasd():
     pass
 
 def asdf
-    some
+    some():
+        asdfa
+    asdofm
