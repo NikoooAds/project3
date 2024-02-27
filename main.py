@@ -3,4 +3,6 @@ def some():
 
 def sasd():
     pass
+
 def asdf
+    some
